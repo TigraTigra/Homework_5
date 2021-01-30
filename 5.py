@@ -15,3 +15,4 @@ def summary():
     except ValueError:
         print('Неправильно набран номер. Ошибка ввода-вывода')
 summary()
+#1

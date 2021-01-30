@@ -17,3 +17,4 @@ content = my_file.read()
 content = content.split()
 print(f'Общее количество слов - {len(content)}')
 my_file.close()
+#1

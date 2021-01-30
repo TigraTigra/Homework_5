@@ -18,3 +18,4 @@ with open('file_4.txt', 'r') as file_obj:
 
 with open('file_4_new.txt', 'w') as file_obj_2:
     file_obj_2.writelines(new_file)
+    # 1
